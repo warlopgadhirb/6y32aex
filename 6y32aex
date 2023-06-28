@@ -1,0 +1,7 @@
+echo "# 6y32aex" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/fayrozonissi3/6y32aex.git
+git push -u origin main
